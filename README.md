@@ -6,4 +6,4 @@
 
 ## Showcase
 
-![image](https://github.com/Lanlul/garbage_classification_android/blob/master/garbage_classification_test2.jpg)
+<img src="https://github.com/Lanlul/garbage_classification_android/blob/master/garbage_classification_test2.jpg" width="30%" height="30%">
